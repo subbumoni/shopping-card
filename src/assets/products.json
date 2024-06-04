@@ -1,0 +1,39 @@
+[
+{
+    "id":89,
+    "name":"Farmers Pick",
+    "amt":299,
+    "shop":"Pizza Hut",
+    "ftype":"Pizza.jpg",
+    "pic":"https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg",
+    "Latest":"No"
+},
+{
+    "id":124,
+    "name":"Paper Roast Dosa",
+    "amt":65,
+    "shop":"Sri Saivihar ",
+    "ftype":"veg",
+    "pic":"https://media.istockphoto.com/id/909906350/photo/masala-dosa-south-indian-food.jpg?s=612x612&w=0&k=20&c=3CI-bw2NhYaX_t0-CZIXIIXsOygFcUaoGSmzbnVB-fU=",
+    "Latest":"No"
+},
+{
+    "id":26,
+    "name":"Alfredo Pasta",
+    "amt":185,
+    "shop":"LAKSHMI FOOd",
+    "ftype":"Veg",
+    "pic":"https://t3.ftcdn.net/jpg/03/88/35/68/360_F_388356842_278zLt0yP5IWihvItePWqXojQaF8GQo8.jpg",
+    "Latest":"Yes"
+},
+{
+    "id":9,
+    "name":"Chicken 65",
+    "amt":220,
+    "shop":"Salam Rr Briyani",
+    "ftype":"Non-veg",
+    "pic":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/chicken-65-swasthi.jpg",
+    "Latest":"Yes"
+}
+
+]
